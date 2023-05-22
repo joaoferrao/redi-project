@@ -1,0 +1,1 @@
+This project is used to show how to use git.
